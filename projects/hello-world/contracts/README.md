@@ -1,6 +1,6 @@
 # `Hello-World` Consumer Contracts
 
-This is a [foundry](https://book.getfoundry.sh/) project that implements a simple Consumer
+This is a [foundry](https://getfoundry.sh/) project that implements a simple Consumer
 contract, [`SaysGm`](./src/SaysGM.sol).
 
 This readme explains how to compile and deploy the contract to the Infernet Anvil Testnet network.
